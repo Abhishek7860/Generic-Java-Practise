@@ -3,3 +3,4 @@
 2. Shuffle.java - Creates a shuffle array
 3. DPivot_QuickSort - Double Pivot Quick sort
 4. QuickSort - Single Pivot Quick sort
+5. DistinctElements - Checks distinct elements and places it at start of the Array.
